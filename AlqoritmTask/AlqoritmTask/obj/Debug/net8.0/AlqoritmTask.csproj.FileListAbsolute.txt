@@ -1,0 +1,14 @@
+C:\Users\Sheki-Komp\Desktop\Alqorirtm\AlqoritmTask\AlqoritmTask\bin\Debug\net8.0\AlqoritmTask.exe
+C:\Users\Sheki-Komp\Desktop\Alqorirtm\AlqoritmTask\AlqoritmTask\bin\Debug\net8.0\AlqoritmTask.deps.json
+C:\Users\Sheki-Komp\Desktop\Alqorirtm\AlqoritmTask\AlqoritmTask\bin\Debug\net8.0\AlqoritmTask.runtimeconfig.json
+C:\Users\Sheki-Komp\Desktop\Alqorirtm\AlqoritmTask\AlqoritmTask\bin\Debug\net8.0\AlqoritmTask.dll
+C:\Users\Sheki-Komp\Desktop\Alqorirtm\AlqoritmTask\AlqoritmTask\bin\Debug\net8.0\AlqoritmTask.pdb
+C:\Users\Sheki-Komp\Desktop\Alqorirtm\AlqoritmTask\AlqoritmTask\obj\Debug\net8.0\AlqoritmTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheki-Komp\Desktop\Alqorirtm\AlqoritmTask\AlqoritmTask\obj\Debug\net8.0\AlqoritmTask.AssemblyInfoInputs.cache
+C:\Users\Sheki-Komp\Desktop\Alqorirtm\AlqoritmTask\AlqoritmTask\obj\Debug\net8.0\AlqoritmTask.AssemblyInfo.cs
+C:\Users\Sheki-Komp\Desktop\Alqorirtm\AlqoritmTask\AlqoritmTask\obj\Debug\net8.0\AlqoritmTask.csproj.CoreCompileInputs.cache
+C:\Users\Sheki-Komp\Desktop\Alqorirtm\AlqoritmTask\AlqoritmTask\obj\Debug\net8.0\AlqoritmTask.dll
+C:\Users\Sheki-Komp\Desktop\Alqorirtm\AlqoritmTask\AlqoritmTask\obj\Debug\net8.0\refint\AlqoritmTask.dll
+C:\Users\Sheki-Komp\Desktop\Alqorirtm\AlqoritmTask\AlqoritmTask\obj\Debug\net8.0\AlqoritmTask.pdb
+C:\Users\Sheki-Komp\Desktop\Alqorirtm\AlqoritmTask\AlqoritmTask\obj\Debug\net8.0\AlqoritmTask.genruntimeconfig.cache
+C:\Users\Sheki-Komp\Desktop\Alqorirtm\AlqoritmTask\AlqoritmTask\obj\Debug\net8.0\ref\AlqoritmTask.dll

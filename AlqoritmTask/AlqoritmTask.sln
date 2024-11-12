@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlqoritmTask", "AlqoritmTask\AlqoritmTask.csproj", "{2009C991-97E3-4182-9C98-0E427939E1EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2009C991-97E3-4182-9C98-0E427939E1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2009C991-97E3-4182-9C98-0E427939E1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2009C991-97E3-4182-9C98-0E427939E1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2009C991-97E3-4182-9C98-0E427939E1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37F8E49B-6619-4DEC-9124-5D0B3C4C49D2}
+	EndGlobalSection
+EndGlobal
